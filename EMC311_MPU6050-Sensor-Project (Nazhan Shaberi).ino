@@ -1,3 +1,9 @@
+//Group Project for EMC311-Measurement & Instrumentation
+//MOHAMAD NAZHAN BIN MOHAMAD SHABERI
+//MOHAMAD IDHAM BIN HAMID
+//MOHAMAD ZULHISYAM BIN MOHD ZAINI 
+//MOHAMAD RIDZUAN BIN HABIDIN
+
 #include <Wire.h>
 
 //Declaring some variables
